@@ -1,4 +1,3 @@
-```markdown
 # AppRiver (SecureTide) to Microsoft 365 Migration Tool
 
 A PowerShell automation script to migrate Allow/Block lists (Senders, Domains, and IPs) from AppRiver SecureTide into Microsoft 365 Defender.
